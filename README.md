@@ -50,7 +50,18 @@
                    ;#&                                                   
 ```
 
-| ![Chaos Jape's github stats](https://github-readme-stats.vercel.app/api?username=ChaosJape&layout=compact&theme=buefy&hide_border=true) | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaosJape&layout=compact&theme=buefy&hide_border=true" /></a> |
+| 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ChaosJape&layout=compact&theme=dark&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ChaosJape&layout=compact&theme=default&hide_border=true" />
+  <img alt="github-snake" src="https://github-readme-stats.vercel.app/api?username=ChaosJape&layout=compact&theme=default&hide_border=true" /></picture>
+  | 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaosJape&layout=compact&theme=dark&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaosJape&layout=compact&theme=default&hide_border=true" />
+  <img alt="github-snake" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaosJape&layout=compact&theme=default&hide_border=true" />
+</picture>
+|
 | ------------- | ------------- |
 
 
